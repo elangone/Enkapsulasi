@@ -16,7 +16,7 @@ public class TestSiswa {
         siswa.setAbsen(23);
         siswa.setAddress("Malang");
         
-        System.out.print("Name : "+siswa.getName()
+        System.out.println("Name : "+siswa.getName()
         + " Absen : " + siswa.getAbsen()+" Address : " + siswa.getAddress());
     }
 }
